@@ -12,4 +12,5 @@
 
 ---
 
+#### <p align="center">Best Regards,</p>  
 #### <p align="center">TDoG Skin</p>
