@@ -12,5 +12,9 @@
 
 ---
 
+  <div align=center><img src="https://github.com/615303619/TDoG-Skin/assets/71170887/94f287cc-40e0-435c-8da0-99b7bf6ef953"></div>
+
+---
+
 #### <p align="center">Best Regards,</p>  
 #### <p align="center">TDoG Skin</p>
