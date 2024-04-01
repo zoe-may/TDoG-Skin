@@ -12,4 +12,4 @@
 
 ---
 
-#### <p align="center">Regards, TDoG Skin</p>
+#### <p align="center">TDoG Skin</p>
