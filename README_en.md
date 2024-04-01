@@ -1,3 +1,8 @@
+## Language
+
+- [中文](README.md)
+- [English](README_en.md)
+---
 <div align=center><img src="https://github.com/615303619/TDoG-Skin/assets/71170887/d75b3ddf-6ec5-4bc7-afe0-092385d9279b"></div>
 
 # <div align="center" style="font-size:25px">[TDoG Skin](https://skin.tdogmc.top/)</div>
