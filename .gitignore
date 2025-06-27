@@ -1,16 +1,29 @@
-# Blessing Skin Server
+# Laravel / Blessing Skin
+/vendor/
+/node_modules/
 /.env
-/public/storage
 /storage/*.key
 /storage/app/
 /storage/framework/
 /storage/logs/
-/vendor/
-/bootstrap/cache/
+/storage/textures/
+/storage/install.lock
+/public/storage
+/public/plugins/
+/public/lang/
+/bootstrap/cache/*.php
 
 # Common
 .DS_Store
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-node_modules/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
